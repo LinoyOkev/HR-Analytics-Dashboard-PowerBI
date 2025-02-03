@@ -1,6 +1,7 @@
 # HR-Analytics-Dashboard-PowerBI
 
-📂 [Download the Power BI File (.pbix)](YOUR_GITHUB_PBIX_LINK)
+📂 [Click here to Download the full dashboard(zip)](https://github.com/LinoyOkev/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Dashboard.zip)
+![image](https://github.com/user-attachments/assets/739f4fb4-693d-4df5-afa3-fb1d1c378e95)
 
 ## Overview
 
@@ -32,12 +33,9 @@ To address this challenge, the HR Analytics Dashboard provides real-time insight
 #### 🎯 Employee Demographics
 - Average Age: 37 years
 - Age Group Distribution:
-  - Under 25: 217
-  - 25-34: 337
-  - 35-44: 309
-  - 45-54: 132
-  - Over 55: 196
-- Gender Breakdown: Female & Male employees.
+
+ ![image](https://github.com/user-attachments/assets/21e8fd1d-7782-4eed-ab5b-79c497e5a583)
+
 
 #### ⭐ Job Satisfaction Analysis
 - Job Satisfaction Ratings across key roles:
@@ -47,6 +45,9 @@ To address this challenge, the HR Analytics Dashboard provides real-time insight
   - Manufacturing Director: 145 employees
   - Healthcare Representative: 131 employees
 
+![image](https://github.com/user-attachments/assets/327da20a-6b82-4bf7-9734-d2e8cd1da0ea)
+
+
 #### 📈 Attrition Rate by Gender & Age Group
 - Under 25: 47.37% Female, 52.63% Male
 - 25-34: 38.39% Female, 61.61% Male
@@ -55,7 +56,7 @@ To address this challenge, the HR Analytics Dashboard provides real-time insight
 - Over 55: 27.27% Female, 72.73% Male
 
 #### 🛠️ Tech Stack
-Power BI – Data Visualization
-Microsoft Excel – Data Preparation
+- Data Visualization
+- Microsoft Excel – Data Preparation
 
 
