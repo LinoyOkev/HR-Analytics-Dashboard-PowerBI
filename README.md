@@ -1,6 +1,5 @@
 # HR-Analytics-Dashboard-PowerBI
 
-📂 [Click here to Download the full dashboard(zip)](https://github.com/LinoyOkev/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Dashboard.zip)
 ![image](https://github.com/user-attachments/assets/739f4fb4-693d-4df5-afa3-fb1d1c378e95)
 
 ## Overview
